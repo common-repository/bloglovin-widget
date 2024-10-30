@@ -1,0 +1,197 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Bloglovin Widget\n"
+"POT-Creation-Date: 2015-05-23 23:41-0000\n"
+"PO-Revision-Date: 2015-06-05 09:50-0000\n"
+"Last-Translator: \n"
+"Language-Team: pipdig <hello@pipdig.co>\n"
+"Language: fr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.7.6\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-SearchPath-0: ..\n"
+"X-Poedit-SearchPathExcluded-0: ../.git\n"
+"X-Poedit-SearchPathExcluded-1: ../js\n"
+"X-Poedit-SearchPathExcluded-2: ../img\n"
+"X-Poedit-SearchPathExcluded-3: ../css\n"
+
+#: ../bloglovin-widget.php:59
+msgid "You do not have sufficient permissions to access this page."
+msgstr "Vous n&rsquo;avez pas les droits suffisants pour accéder à cette page."
+
+#: ../bloglovin-widget.php:81
+msgid "Settings saved."
+msgstr "Options enregistrées."
+
+#: ../bloglovin-widget.php:116
+msgid "Enter the link to your blog's feed on Bloglovin'"
+msgstr "Entrez le lien du flux Bloglovin' de votre blog."
+
+#: ../bloglovin-widget.php:121
+msgid "For example:"
+msgstr "Par example:"
+
+#: ../bloglovin-widget.php:124
+msgid "Bloglovin' link:"
+msgstr "Lien Bloglovin':"
+
+#: ../bloglovin-widget.php:130
+msgid ""
+"Do you speak multiple languages? We are looking for people to translate this "
+"plugin. <a href='http://www.pipdig.co/contact' target='_blank'>Contact us</"
+"a> for details."
+msgstr ""
+"Nous voudrions remercier Alexia pour avoir traduit ce plugin en Français. "
+"Faites un tour sur son blog <a href='http://www.thebeautynotebook.com' "
+"target='_blank'>thebeautynotebook.com</a>!"
+
+#: ../bloglovin-widget.php:134
+msgid "Total count:"
+msgstr " Total d’abonnés:"
+
+#: ../bloglovin-widget.php:135
+#, php-format
+msgid ""
+"Success! You can now use the widget to display your count by going to the <a "
+"href='%s'>Widgets section</a> of the dashboard."
+msgstr ""
+"Félicitations! Vous pouvez maintenant utiliser ce widget pour afficher votre "
+"nombre d’abonnés en allant sur <a href='%s'>dans la section widget</a> du "
+"tableau de bord."
+
+#: ../bloglovin-widget.php:136
+msgid ""
+"You can also display your count in any post/page by using the shortcode "
+"<strong>[bloglovin_count]</strong>."
+msgstr ""
+"Vous pouvez aussi afficher votre nombre d’abonnés dans chaque article ou "
+"chaque page en insérant ce code <strong>[bloglovin_count]</strong>."
+
+#: ../bloglovin-widget.php:139
+msgid ""
+"Your total follower count will be displayed here after you add your link "
+"above and click save"
+msgstr ""
+"Le total de vos abonnés sera affiché ici après l’ajout de votre lien ci-"
+"dessus et après avoir cliqué sur sauvegarder."
+
+#: ../bloglovin-widget.php:145
+msgid "Looking for a more professional WordPress theme?"
+msgstr "À la recherche d’un thème plus professionnel?"
+
+#: ../bloglovin-widget.php:146
+msgid ""
+"Get 10&#37; off any order at <a href='http://www.pipdig.co/products/premade-"
+"wordpress-themes/?"
+"utm_source=wordpress&utm_medium=bloglovin&utm_campaign=bloglovin' "
+"target='_blank'>www.pipdig.co</a> by using coupon code 'nextlevel'."
+msgstr ""
+"Cliquez ici pour voir notre gamme complète de themes <a href='http://www."
+"pipdig.co/products/premade-wordpress-themes/?"
+"utm_source=wordpress&utm_medium=bloglovin&utm_campaign=bloglovin' "
+"target='_blank'>www.pipdig.co</a>."
+
+#: ../bloglovin-widget.php:200
+msgid "Display your Bloglovin' follower count."
+msgstr "Afficher le total de vos abonnés Bloglovin'."
+
+#: ../bloglovin-widget.php:201 ../inc/customizer.php:9
+msgid "Bloglovin' Widget"
+msgstr "Widget Bloglovin'"
+
+#: ../bloglovin-widget.php:243 ../bloglovin-widget.php:246
+#: ../bloglovin-widget.php:249 ../bloglovin-widget.php:252
+#: ../bloglovin-widget.php:255 ../bloglovin-widget.php:258
+msgid "Followers on Bloglovin'"
+msgstr "abonnés sur Bloglovin'"
+
+#: ../bloglovin-widget.php:263
+msgid ""
+"Widget setup not complete. Please go to Settings > Bloglovin' in the "
+"dashboard"
+msgstr ""
+"L’installation du widget est incomplète. Rendez vous sur Réglages > "
+"Bloglovin’ dans le tableau de bord."
+
+#: ../bloglovin-widget.php:277
+msgid "Widget Title: (leave blank for no title)"
+msgstr "Titre du Widget: (Optionnel, sinon laissez cet espace vide)"
+
+#: ../bloglovin-widget.php:287
+#, php-format
+msgid ""
+"This widget will display your total Bloglovin' follower count. Note that you "
+"will need to add your Bloglovin' link to <a href='%s'>the options page</a> "
+"for this to work."
+msgstr ""
+"Ce widget affichera le total de vos abonnés sur Bloglovin'. Vous devrez "
+"insérer votre lien Bloglovin' sur <a href='%s'>la page Options</a> pour que "
+"cela fonctionne."
+
+#: ../bloglovin-widget.php:288
+#, php-format
+msgid ""
+"Select a style from below, or choose your own colors in the <em>Bloglovin' "
+"Widget</em> section of the <a href='%s'>Customizer</a>."
+msgstr ""
+"Choisissez un style ou bien choisissez vos propres couleurs dans la section "
+"Widget Bloglovin' <a href='%s'>Personnaliser</a>."
+
+#: ../bloglovin-widget.php:291
+msgid "Widget style:"
+msgstr "Style du Widget:"
+
+#: ../bloglovin-widget.php:294 ../bloglovin-widget.php:298
+#: ../bloglovin-widget.php:302 ../bloglovin-widget.php:306
+#: ../bloglovin-widget.php:310 ../bloglovin-widget.php:314
+msgid "Style"
+msgstr ""
+
+#: ../inc/customizer.php:11
+msgid "Use these options to style your Bloglovin' Widget."
+msgstr "Utilisez ces options pour customiser votre Widget Bloglovin'."
+
+#: ../inc/customizer.php:27
+msgid "Background color"
+msgstr "Couleur de fond"
+
+#: ../inc/customizer.php:44
+msgid "Border color"
+msgstr ""
+
+#: ../inc/customizer.php:61
+msgid "Text color"
+msgstr "Couleur du texte"
+
+#: ../inc/customizer.php:78
+msgid "Widget Icon"
+msgstr "Icône du widget"
+
+#: ../inc/customizer.php:81
+msgid "Heart"
+msgstr "Cœur"
+
+#: ../inc/customizer.php:82
+msgid "Plus"
+msgstr ""
+
+#: ../inc/customizer.php:83
+msgid "None"
+msgstr "Aucun"
+
+#~ msgid ""
+#~ "Success! You can now use the widget to display your count by going to the "
+#~ "<a href='%s'>Widgets section</a> of the dashboard"
+#~ msgstr ""
+#~ "Félicitations! Vous pouvez maintenant utiliser ce widget pour afficher "
+#~ "votre nombre d’abonnés en allant sur <a href='%s'>dans la section widget</"
+#~ "a> du tableau de bord. "
+
+#~ msgid ""
+#~ "For geeks: use <strong>do_action('bloglovin_count_here');</strong> to "
+#~ "call the integer in your theme or plugin."
+#~ msgstr " "
